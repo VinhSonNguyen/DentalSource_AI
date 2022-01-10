@@ -1,10 +1,10 @@
 header {
-    background-color: #1F2937;
+    background-color: #0351ff;
     color:white;
 }
 
 footer {
-    background-color:#1F2937;
+    background-color:#181818;
     color: white;
     text-align: center;
     padding:15px 0;
@@ -71,16 +71,17 @@ nav li a{
     justify-content: space-between;
 }
 
-.feature-item {
-
-}
 
 button {
-    background-color: #2874ff;
+    background-color: #1894ff;
     padding: 8px 12px;
     color: white;
     border: none;
     border-radius: 4px;
+}
+
+.hero-btn {
+    background-color: #1e1e1e;
 }
 
 .action-section {
