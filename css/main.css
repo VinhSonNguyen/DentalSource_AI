@@ -18,6 +18,8 @@ body {
     width: 960px;
     margin: 0 auto;
     display:flex;
+    align-items: center;
+    padding-bottom: 30px;
 }
 
 #heroImg{
@@ -25,9 +27,19 @@ body {
     margin-left:100px;
 }
 
-nav {
+#navbar {
     width: 960px;
     margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo {
+    display:inline-block;
+}
+
+nav {
+    display: inline-block;
     padding: 20px 0;
 }
 nav ul{
